@@ -1,0 +1,12 @@
+C:\Users\sfurl\source\repos\CompressZip\Model\bin\Debug\Model.dll
+C:\Users\sfurl\source\repos\CompressZip\Model\bin\Debug\Model.pdb
+C:\Users\sfurl\source\repos\CompressZip\Model\bin\Debug\Aspose.Zip.dll
+C:\Users\sfurl\source\repos\CompressZip\Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\sfurl\source\repos\CompressZip\Model\bin\Debug\System.Text.Encoding.CodePages.dll
+C:\Users\sfurl\source\repos\CompressZip\Model\bin\Debug\Aspose.Zip.xml
+C:\Users\sfurl\source\repos\CompressZip\Model\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\sfurl\source\repos\CompressZip\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\sfurl\source\repos\CompressZip\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\sfurl\source\repos\CompressZip\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\sfurl\source\repos\CompressZip\Model\obj\Debug\Model.dll
+C:\Users\sfurl\source\repos\CompressZip\Model\obj\Debug\Model.pdb
